@@ -100,7 +100,7 @@ body {
 	left: 0;
 	top: 0;
 	padding-bottom: 9px;
-	border-bottom: 1px solid #d1d1d1;
+	border-bottom: 1px solid #666666;
 	background-color: #000000;
 }
 /*Навигация по товарам в хедере desktop*/
@@ -205,7 +205,7 @@ body {
 	top: 0;
 	left: 0;
 	background-color: #000000;
-	border-bottom: 1px solid #d1d1d1;
+	border-bottom: 1px solid #666666;
 }
 .b-menu-nav .nav {
 	width: 100%;
